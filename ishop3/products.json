@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name":"ручка", "price":100, "image": "https://adm.pen.ru/files/prodpics/13237867/13237867_1_930x560.png", "count": 66}, 
+  {"id": 2, "name":"карандаш", "price":100, "image": "https://elefant.by/img_products/full_147111092_a.jpg", "count": 66},
+  {"id": 3, "name":"ручка", "price":100, "image": "https://adm.pen.ru/files/prodpics/13237867/13237867_1_930x560.png", "count": 66},
+  {"id": 4, "name":"карандаш", "price":100, "image": "https://elefant.by/img_products/full_147111092_a.jpg", "count": 66}
+]
